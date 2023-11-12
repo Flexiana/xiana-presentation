@@ -24,6 +24,10 @@ Presentation via modifying view-box attribute on an SVG file.
 
     `xiana-prezi.core/states` it should be edited by hand.
 
+### Slides can be recalled by order
+
+    using cursor left and right buttons
+
 To clean all compiled files:
 
 	lein clean
