@@ -14,19 +14,19 @@ Presentation via modifying view-box attribute on an SVG file.
 
 ### Use your mouse
 
-    to scroll and zoom in the browser window
+to scroll and zoom in the browser window
 
 ### To get the actual values
 
-    of view-box press `s`, and copy the values from the js/prompt.
+of view-box press `s`, and copy the values from the js/prompt.
 
 ### Slides stored in
 
-    `xiana-prezi.core/states` it should be edited by hand.
+`xiana-prezi.core/states` it should be edited by hand.
 
 ### Slides can be recalled by order
 
-    using cursor left and right buttons
+using cursor left and right buttons
 
 To clean all compiled files:
 
