@@ -1,6 +1,14 @@
-# xiana-presentation
+# Xiana-presentation
 
-For webinar Jun 20 2023.
+For Xiana webinar Jun 20 2023.
+
+## See the webinar
+
+https://www.youtube.com/watch?v=VuO0gcOHvKU
+
+## Source code of the presentation
+
+https://github.com/Flexiana/xiana-webinar_source-code
 
 ## Overview
 
