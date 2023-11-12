@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Leiningen: info.sunng/ring-jetty9-adapter:0.17.5">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/info/sunng/ring-jetty9-adapter/0.17.5/ring-jetty9-adapter-0.17.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

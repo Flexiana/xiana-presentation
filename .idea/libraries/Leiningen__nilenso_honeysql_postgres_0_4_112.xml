@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Leiningen: nilenso/honeysql-postgres:0.4.112">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/nilenso/honeysql-postgres/0.4.112/honeysql-postgres-0.4.112.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
