@@ -1,4 +1,4 @@
-(defproject xiana-prezi "0.1.0-SNAPSHOT"
+(defproject xiana-presentation "0.1.0-SNAPSHOT"
   :description "FIXME: write this!"
   :url "http://example.com/FIXME"
   :license {:name "Eclipse Public License"
@@ -10,7 +10,7 @@
                  [org.clojure/clojurescript "1.11.4"]
                  [cljsjs/react "17.0.2-0"]
                  [cljsjs/react-dom "17.0.2-0"]
-                 [reagent "1.1.1" ]]
+                 [reagent "1.1.1"]]
 
   :source-paths ["src"]
 

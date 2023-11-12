@@ -1,24 +1,28 @@
-# xiana-prezi
+# xiana-presentation
 
-FIXME: Write a one-line description of your library/project.
+For webinar Jun 20 2023.
 
 ## Overview
 
-FIXME: Write a paragraph about the library/project and highlight its goals.
+Presentation via modifying view-box attribute on an SVG file.
 
 ## Development
 
-To get an interactive development environment run:
+### To get an interactive development environment run:
 
     lein fig:build
 
-This will auto compile and send all changes to the browser without the
-need to reload. After the compilation process is complete, you will
-get a Browser Connected REPL. An easy way to try it is:
+### Use your mouse
 
-    (js/alert "Am I connected?")
+    to scroll and zoom in the browser window
 
-and you should see an alert in the browser window.
+### To get the actual values
+
+    of view-box press `s`, and copy the values from the js/prompt.
+
+### Slides stored in
+
+    `xiana-prezi.core/states` it should be edited by hand.
 
 To clean all compiled files:
 
@@ -28,7 +32,6 @@ To create a production build run:
 
 	lein clean
 	lein fig:min
-
 
 ## License
 

@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/prezi/prezi.iml" filepath="$PROJECT_DIR$/prezi/prezi.iml" />
-      <module fileurl="file://$PROJECT_DIR$/xiana-prezi.iml" filepath="$PROJECT_DIR$/xiana-prezi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xiana-presentation.iml" filepath="$PROJECT_DIR$/xiana-presentation.iml" />
     </modules>
   </component>
 </project>
